@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="‎Son Rodeo" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_RODEO" tvg-logo="https://dizifun4.com/images/data/2020_son-rodeo.webp" group-title="Filmler",‎Son Rodeo
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/bx7bocpen3qwf757lrf8/master.m3u8
+#EXTINF:-1 tvg-name="Tehlikeli Miras" tvg-language="Turkish" tvg-country="TR" tvg-id="TEHLIKELI_MIRAS" tvg-logo="https://dizifun4.com/images/data/2025_tehlikeli-miras.webp" group-title="Filmler",Tehlikeli Miras
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/z9j4kutbidgxk47hk5vg/master.m3u8
+#EXTINF:-1 tvg-name="Kardeşim İçin" tvg-language="Turkish" tvg-country="TR" tvg-id="KARDESIM_ICIN" tvg-logo="https://dizifun4.com/images/data/2013_kardesim-icin.webp" group-title="Filmler",Kardeşim İçin
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cmxt9od6ecl3adtpkib2/master.m3u8
+#EXTINF:-1 tvg-name="Monte Kristo Kontu" tvg-language="Turkish" tvg-country="TR" tvg-id="MONTE_KRISTO_KONTU" tvg-logo="https://dizifun4.com/images/data/1975_monte-kristo-kontu.webp" group-title="Filmler",Monte Kristo Kontu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xj63i7hy8ribkilgupy5/master.m3u8
+#EXTINF:-1 tvg-name="Bina" tvg-language="Turkish" tvg-country="TR" tvg-id="BINA" tvg-logo="https://dizifun4.com/images/data/2020_bina.webp" group-title="Filmler",Bina
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/h8elustxl44cmb7teycv/master.m3u8
 #EXTINF:-1 tvg-name="Fenike Planı" tvg-language="Turkish" tvg-country="TR" tvg-id="FENIKE_PLANI" tvg-logo="https://dizifun4.com/images/data/2025_fenike-plani.webp" group-title="Filmler",Fenike Planı
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/eaj3r96slbj9di94dk5e/master.m3u8
 #EXTINF:-1 tvg-name="Soğuk Füzyon" tvg-language="Turkish" tvg-country="TR" tvg-id="SOGUK_FUZYON" tvg-logo="https://dizifun4.com/images/data/2011_soguk-fuzyon.webp" group-title="Filmler",Soğuk Füzyon
