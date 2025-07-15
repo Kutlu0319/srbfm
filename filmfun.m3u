@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Konsey" tvg-language="Turkish" tvg-country="TR" tvg-id="KONSEY" tvg-logo="https://dizifun4.com/images/data/2024_konsey.webp" group-title="Filmler",Konsey
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/pogmo4vvgt63j92ot4iy/master.m3u8
+#EXTINF:-1 tvg-name="Paranoya" tvg-language="Turkish" tvg-country="TR" tvg-id="PARANOYA" tvg-logo="https://dizifun4.com/images/data/2024_paranoya.webp" group-title="Filmler",Paranoya
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/t1ocnzzkxew1nrixhfpa/master.m3u8
+#EXTINF:-1 tvg-name="Karanlığın Dişleri 2" tvg-language="Turkish" tvg-country="TR" tvg-id="KARANLIGIN_DISLERI_2" tvg-logo="https://dizifun4.com/images/data/2020_karanligin-disleri-2.webp" group-title="Filmler",Karanlığın Dişleri 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ti149won2hxbpwub6pkj/master.m3u8
+#EXTINF:-1 tvg-name="Karanlığın Dişleri" tvg-language="Turkish" tvg-country="TR" tvg-id="KARANLIGIN_DISLERI" tvg-logo="https://dizifun4.com/images/data/2008_karanligin-disleri.webp" group-title="Filmler",Karanlığın Dişleri
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xiuagsoyedwjhfandnmz/master.m3u8
+#EXTINF:-1 tvg-name="AK-47" tvg-language="Turkish" tvg-country="TR" tvg-id="AK47" tvg-logo="https://dizifun4.com/images/data/2020_ak-47.webp" group-title="Filmler",AK-47
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qf3tj5xshkehbthrw6ql/master.m3u8
+#EXTINF:-1 tvg-name="Karate Kid: Efsane Dövüşçüler" tvg-language="Turkish" tvg-country="TR" tvg-id="KARATE_KID_EFSANE_DOVUSCULER" tvg-logo="https://dizifun4.com/images/data/2025_karate-kid-efsane-dovusculer.webp" group-title="Filmler",Karate Kid: Efsane Dövüşçüler
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ahfnesfi85eojh8jl6ox/master.m3u8
+#EXTINF:-1 tvg-name="Gizli Dosya" tvg-language="Turkish" tvg-country="TR" tvg-id="GIZLI_DOSYA" tvg-logo="https://dizifun4.com/images/data/2015_gizli-dosya.webp" group-title="Filmler",Gizli Dosya
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zbs9u9cndiubs5p1yrh7/master.m3u8
+#EXTINF:-1 tvg-name="Nebraska" tvg-language="Turkish" tvg-country="TR" tvg-id="NEBRASKA" tvg-logo="https://dizifun4.com/images/data/2013_nebraska.webp" group-title="Filmler",Nebraska
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/gyowcpofmzi75mc34txh/master.m3u8
+#EXTINF:-1 tvg-name="Büyük Hesaplaşma" tvg-language="Turkish" tvg-country="TR" tvg-id="BUYUK_HESAPLASMA" tvg-logo="https://dizifun4.com/images/data/1995_buyuk-hesaplasma.webp" group-title="Filmler",Büyük Hesaplaşma
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/i8jtoh8a9ocfdwny7eas/master.m3u8
+#EXTINF:-1 tvg-name="Yeşillikler Üstünde" tvg-language="Turkish" tvg-country="TR" tvg-id="YESILLIKLER_USTUNDE" tvg-logo="https://dizifun4.com/images/data/1960_yesillikler-ustunde.webp" group-title="Filmler",Yeşillikler Üstünde
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ala5ju5nqaxwyhwela6k/master.m3u8
+#EXTINF:-1 tvg-name="Almanya, Acı Vatan" tvg-language="Turkish" tvg-country="TR" tvg-id="ALMANYA_ACI_VATAN" tvg-logo="https://dizifun4.com/images/data/1979_almanya-aci-vatan.webp" group-title="Filmler",Almanya, Acı Vatan
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/48ymmmnvg1yu3gtpim4m/master.m3u8
 #EXTINF:-1 tvg-name="‎Son Rodeo" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_RODEO" tvg-logo="https://dizifun4.com/images/data/2020_son-rodeo.webp" group-title="Filmler",‎Son Rodeo
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/bx7bocpen3qwf757lrf8/master.m3u8
 #EXTINF:-1 tvg-name="Tehlikeli Miras" tvg-language="Turkish" tvg-country="TR" tvg-id="TEHLIKELI_MIRAS" tvg-logo="https://dizifun4.com/images/data/2025_tehlikeli-miras.webp" group-title="Filmler",Tehlikeli Miras
