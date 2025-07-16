@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Felaketler Dizisi: Balondaki Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_BALONDAKI_COCUK" tvg-logo="https://dizifun4.com/images/data/2025_felaketler-dizisi-balondaki-cocuk.webp" group-title="Filmler",Felaketler Dizisi: Balondaki Çocuk
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9wqxvfk9gskvqx9g74q3/master.m3u8
+#EXTINF:-1 tvg-name="Arkadaşım Şeytan" tvg-language="Turkish" tvg-country="TR" tvg-id="ARKADASIM_SEYTAN" tvg-logo="https://dizifun4.com/images/data/1988_arkadasim-seytan.webp" group-title="Filmler",Arkadaşım Şeytan
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/add61jov9axlns9ax573/master.m3u8
+#EXTINF:-1 tvg-name="Akıl Oyunları" tvg-language="Turkish" tvg-country="TR" tvg-id="AKIL_OYUNLARI" tvg-logo="https://dizifun4.com/images/data/2001_akil-oyunlari.webp" group-title="Filmler",Akıl Oyunları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/veyrwvb2qfg75dr3cc2b/master.m3u8
+#EXTINF:-1 tvg-name="Hayat Güzeldir" tvg-language="Turkish" tvg-country="TR" tvg-id="HAYAT_GUZELDIR" tvg-logo="https://dizifun4.com/images/data/1997_hayat-guzeldir.webp" group-title="Filmler",Hayat Güzeldir
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/k8ylzouscg8cq7mzera2/master.m3u8
+#EXTINF:-1 tvg-name="Atlantik Savaşı" tvg-language="Turkish" tvg-country="TR" tvg-id="ATLANTIK_SAVASI" tvg-logo="https://dizifun4.com/images/data/2013_atlantik-savasi.webp" group-title="Filmler",Atlantik Savaşı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/8w7s4rlma7dlic52dfvw/master.m3u8
+#EXTINF:-1 tvg-name="Atlantik Savaşı: Diriliş" tvg-language="Turkish" tvg-country="TR" tvg-id="ATLANTIK_SAVASI_DIRILIS" tvg-logo="https://dizifun4.com/images/data/2018_atlantik-savasi-dirilis.webp" group-title="Filmler",Atlantik Savaşı: Diriliş
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/b7253ndeli2xpqc6kprz/master.m3u8
 #EXTINF:-1 tvg-name="Konsey" tvg-language="Turkish" tvg-country="TR" tvg-id="KONSEY" tvg-logo="https://dizifun4.com/images/data/2024_konsey.webp" group-title="Filmler",Konsey
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/pogmo4vvgt63j92ot4iy/master.m3u8
 #EXTINF:-1 tvg-name="Paranoya" tvg-language="Turkish" tvg-country="TR" tvg-id="PARANOYA" tvg-logo="https://dizifun4.com/images/data/2024_paranoya.webp" group-title="Filmler",Paranoya
