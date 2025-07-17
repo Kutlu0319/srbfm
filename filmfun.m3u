@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bir Skandalın Peşinde" tvg-language="Turkish" tvg-country="TR" tvg-id="BIR_SKANDALIN_PESINDE" tvg-logo="https://dizifun4.com/images/data/2023_bir-skandalin-pesinde.webp" group-title="Filmler",Bir Skandalın Peşinde
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2ce33oece32b7ritb99k/master.m3u8
+#EXTINF:-1 tvg-name="Joy" tvg-language="Turkish" tvg-country="TR" tvg-id="JOY" tvg-logo="https://dizifun4.com/images/data/2015_joy.webp" group-title="Filmler",Joy
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9u2giwu4wvrtqfd4db4x/master.m3u8
+#EXTINF:-1 tvg-name="Hızlı ve Ateşli" tvg-language="Turkish" tvg-country="TR" tvg-id="HIZLI_VE_ATESLI" tvg-logo="https://dizifun4.com/images/data/2017_hizli-ve-atesli.webp" group-title="Filmler",Hızlı ve Ateşli
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a79mh7n6ewacefogtauw/master.m3u8
+#EXTINF:-1 tvg-name="Hızlı ve Ateşli: Ölüm Yarışı" tvg-language="Turkish" tvg-country="TR" tvg-id="HIZLI_VE_ATESLI_OLUM_YARISI" tvg-logo="https://dizifun4.com/images/data/2020_hizli-ve-atesli-olum-yarisi.webp" group-title="Filmler",Hızlı ve Ateşli: Ölüm Yarışı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zpwmmcmivi7wg74a5mmn/master.m3u8
+#EXTINF:-1 tvg-name="Son Sefer" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_SEFER" tvg-logo="https://dizifun4.com/images/data/2025_son-sefer.webp" group-title="Filmler",Son Sefer
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/927g9ez6dewila2hce5s/master.m3u8
 #EXTINF:-1 tvg-name="Felaketler Dizisi: Balondaki Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_BALONDAKI_COCUK" tvg-logo="https://dizifun4.com/images/data/2025_felaketler-dizisi-balondaki-cocuk.webp" group-title="Filmler",Felaketler Dizisi: Balondaki Çocuk
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9wqxvfk9gskvqx9g74q3/master.m3u8
 #EXTINF:-1 tvg-name="Arkadaşım Şeytan" tvg-language="Turkish" tvg-country="TR" tvg-id="ARKADASIM_SEYTAN" tvg-logo="https://dizifun4.com/images/data/1988_arkadasim-seytan.webp" group-title="Filmler",Arkadaşım Şeytan
@@ -2241,56 +2251,6 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/63cn6323pe6bwk3ko4f8/master.m3u8
 #EXTINF:-1 tvg-name="Payidar: Gazi'nin Büyük Tablosu" tvg-language="Turkish" tvg-country="TR" tvg-id="PAYIDAR_GAZININ_BUYUK_TABLOSU" tvg-logo="https://dizifun4.com/images/data/2022_payidar-gazinin-buyuk-tablosu.webp" group-title="Filmler",Payidar: Gazi'nin Büyük Tablosu
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/gxt3fh668rjn9eooqbof/master.m3u8
-#EXTINF:-1 tvg-name="Kim Bu Aile?" tvg-language="Turkish" tvg-country="TR" tvg-id="KIM_BU_AILE" tvg-logo="https://dizifun4.com/images/data/2022_kim-bu-aile.webp" group-title="Filmler",Kim Bu Aile?
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/7e3p8n61tasag2a4dzox/master.m3u8
-#EXTINF:-1 tvg-name="Fazla Şaapma" tvg-language="Turkish" tvg-country="TR" tvg-id="FAZLA_SAAPMA" tvg-logo="https://dizifun4.com/images/data/2021_fazla-saapma.webp" group-title="Filmler",Fazla Şaapma
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/ygjsjjwj7mohyuo3e4ze/master.m3u8
-#EXTINF:-1 tvg-name="Bayram Şekeri" tvg-language="Turkish" tvg-country="TR" tvg-id="BAYRAM_SEKERI" tvg-logo="https://dizifun4.com/images/data/2021_bayram-sekeri.webp" group-title="Filmler",Bayram Şekeri
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/kx3zfakg22h1hnultzpq/master.m3u8
-#EXTINF:-1 tvg-name="Mihrez 2: Cin Padişahı" tvg-language="Turkish" tvg-country="TR" tvg-id="MIHREZ_2_CIN_PADISAHI" tvg-logo="https://dizifun4.com/images/data/2022_mihrez-2-cin-padisahi.webp" group-title="Filmler",Mihrez 2: Cin Padişahı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/l794joja8ecdu1174bdg/master.m3u8
-#EXTINF:-1 tvg-name="Mihrez: Cin Padişahı" tvg-language="Turkish" tvg-country="TR" tvg-id="MIHREZ_CIN_PADISAHI" tvg-logo="https://dizifun4.com/images/data/2015_mihrez-cin-padisahi.webp" group-title="Filmler",Mihrez: Cin Padişahı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/6tkh2989xcjng88my4jn/master.m3u8
-#EXTINF:-1 tvg-name="İkizler Takımı" tvg-language="Turkish" tvg-country="TR" tvg-id="IKIZLER_TAKIMI" tvg-logo="https://dizifun4.com/images/data/2024_ikizler-takimi.webp" group-title="Filmler",İkizler Takımı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/73ak9zrd2j51ef4227ar/master.m3u8
-#EXTINF:-1 tvg-name="Aslan Hürkuş: Kayıp Elmas" tvg-language="Turkish" tvg-country="TR" tvg-id="ASLAN_HURKUS_KAYIP_ELMAS" tvg-logo="https://dizifun4.com/images/data/2022_aslan-hurkus-kayip-elmas.webp" group-title="Filmler",Aslan Hürkuş: Kayıp Elmas
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/456j8745fg4yjh83d3t8/master.m3u8
-#EXTINF:-1 tvg-name="Aslan Hürkuş 2: Görevimiz Gökbey" tvg-language="Turkish" tvg-country="TR" tvg-id="ASLAN_HURKUS_2_GOREVIMIZ_GOKBEY" tvg-logo="https://dizifun4.com/images/data/2022_aslan-hurkus-2-gorevimiz-gokbey.webp" group-title="Filmler",Aslan Hürkuş 2: Görevimiz Gökbey
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/higjsroxubzuqk1krf57/master.m3u8
-#EXTINF:-1 tvg-name="Aslan Hürkuş 3: Anka Adası" tvg-language="Turkish" tvg-country="TR" tvg-id="ASLAN_HURKUS_3_ANKA_ADASI" tvg-logo="https://dizifun4.com/images/data/2023_aslan-hurkus-3-anka-adasi.webp" group-title="Filmler",Aslan Hürkuş 3: Anka Adası
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/i5d9jvfz9pue88mesj24/master.m3u8
-#EXTINF:-1 tvg-name="Sevgiler, Simon" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVGILER_SIMON" tvg-logo="https://dizifun4.com/images/data/2018_sevgiler-simon.webp" group-title="Filmler",Sevgiler, Simon
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/6bh2bnlxkel3elhjwql8/master.m3u8
-#EXTINF:-1 tvg-name="Gayet Janet" tvg-language="Turkish" tvg-country="TR" tvg-id="GAYET_JANET" tvg-logo="https://dizifun4.com/images/data/2024_gayet-janet.webp" group-title="Filmler",Gayet Janet
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/zki8rpl8qox4ld7lmp7o/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı: Hayalet Tetikçi" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_HAYALET_TETIKCI" tvg-logo="https://dizifun4.com/images/data/2016_keskin-nisanci-hayalet-tetikci.webp" group-title="Filmler",Keskin Nişancı: Hayalet Tetikçi
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/g1763kfbefcwoodkeo1m/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı: K.M.İ.T. - Küresel Müdahale ve İstihbarat Timi" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_KMIT_KURESEL_MUDAHALE_VE_ISTIHBARAT_TIMI" tvg-logo="https://dizifun4.com/images/data/2023_keskin-nisanci-kmit-kuresel-mudahale-ve-istihbarat-timi.webp" group-title="Filmler",Keskin Nişancı: K.M.İ.T. - Küresel Müdahale ve İstihbarat Timi
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/divjvhhut2icrwl9boyx/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı: Suikastçının Sonu" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_SUIKASTCININ_SONU" tvg-logo="https://dizifun4.com/images/data/2020_keskin-nisanci-suikastcinin-sonu.webp" group-title="Filmler",Keskin Nişancı: Suikastçının Sonu
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/38arl51p6fwoge1lv1it/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_7" tvg-logo="https://dizifun4.com/images/data/2017_keskin-nisanci-7.webp" group-title="Filmler",Keskin Nişancı 7
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/y5tq9spdd5fy91loz7ln/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı: Miras" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_MIRAS" tvg-logo="https://dizifun4.com/images/data/2014_keskin-nisanci-miras.webp" group-title="Filmler",Keskin Nişancı: Miras
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/dngm82whnwf7nzkncbx3/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı: Ölümcül Hedef" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_OLUMCUL_HEDEF" tvg-logo="https://dizifun4.com/images/data/2011_keskin-nisanci-olumcul-hedef.webp" group-title="Filmler",Keskin Nişancı: Ölümcül Hedef
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/xipb429crgunc7rsa4o4/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı 3" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_3" tvg-logo="https://dizifun4.com/images/data/2004_keskin-nisanci-3.webp" group-title="Filmler",Keskin Nişancı 3
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/xobcotzpg9u4t3e91ts1/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı 2" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI_2" tvg-logo="https://dizifun4.com/images/data/2002_keskin-nisanci-2.webp" group-title="Filmler",Keskin Nişancı 2
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/yfcng6rrj48weteteq2v/master.m3u8
-#EXTINF:-1 tvg-name="Keskin Nişancı" tvg-language="Turkish" tvg-country="TR" tvg-id="KESKIN_NISANCI" tvg-logo="https://dizifun4.com/images/data/1993_keskin-nisanci.webp" group-title="Filmler",Keskin Nişancı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/81t95lfcvikg4557j9q2/master.m3u8
-#EXTINF:-1 tvg-name="Rebel Ridge" tvg-language="Turkish" tvg-country="TR" tvg-id="REBEL_RIDGE" tvg-logo="https://dizifun4.com/images/data/2024_rebel-ridge.webp" group-title="Filmler",Rebel Ridge
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/thydbgevfg7dtvt6j77n/master.m3u8
-#EXTINF:-1 tvg-name="Vay Babam Vay!" tvg-language="Turkish" tvg-country="TR" tvg-id="VAY_BABAM_VAY" tvg-logo="https://dizifun4.com/images/data/2021_vay-babam-vay.webp" group-title="Filmler",Vay Babam Vay!
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/satoregvw7ix6mc3rbqg/master.m3u8
-#EXTINF:-1 tvg-name="İlk Temas" tvg-language="Turkish" tvg-country="TR" tvg-id="ILK_TEMAS" tvg-logo="https://dizifun4.com/images/data/2022_ilk-temas.webp" group-title="Filmler",İlk Temas
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/ojr2mv6qgoi3ghlcevtq/master.m3u8
-#EXTINF:-1 tvg-name="Hayvan" tvg-language="Turkish" tvg-country="TR" tvg-id="HAYVAN" tvg-logo="https://dizifun4.com/images/data/2022_hayvan.webp" group-title="Filmler",Hayvan
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/t7llvro3uvlhepxnani7/master.m3u8
-#EXTINF:-1 tvg-name="Yasaklı Köy" tvg-language="Turkish" tvg-country="TR" tvg-id="YASAKLI_KOY" tvg-logo="https://dizifun4.com/images/data/2022_yasakli-koy.webp" group-title="Filmler",Yasaklı Köy
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/t25ulbrq4qiqzj8whq3y/master.m3u8
 #EXTINF:-1 tvg-name="Tutsak Abigail" tvg-language="Turkish" tvg-country="TR" tvg-id="TUTSAK_ABIGAIL" tvg-logo="https://dizifun4.com/images/data/2024_tutsak-abigail.webp" group-title="Filmler",Tutsak Abigail
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/7ertt4oksvx6wpcy683e/master.m3u8
 #EXTINF:-1 tvg-name="Şu Tarafa Gitti" tvg-language="Turkish" tvg-country="TR" tvg-id="SU_TARAFA_GITTI" tvg-logo="https://dizifun4.com/images/data/2024_su-tarafa-gitti.webp" group-title="Filmler",Şu Tarafa Gitti
