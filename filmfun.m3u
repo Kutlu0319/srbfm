@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mutluluğun Ardından" tvg-language="Turkish" tvg-country="TR" tvg-id="MUTLULUGUN_ARDINDAN" tvg-logo="https://dizifun4.com/images/data/2016_mutlulugun-ardindan.webp" group-title="Filmler",Mutluluğun Ardından
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/m9zzk7fnvlgqn191l7n4/master.m3u8
+#EXTINF:-1 tvg-name="Tatlım" tvg-language="Turkish" tvg-country="TR" tvg-id="TATLIM" tvg-logo="https://dizifun4.com/images/data/1970_tatlim.webp" group-title="Filmler",Tatlım
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wa3cweb7387fa25xi7ri/master.m3u8
+#EXTINF:-1 tvg-name="Çıplak Silah 33⅓: Son Hakaret" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_SILAH_33_SON_HAKARET" tvg-logo="https://dizifun4.com/images/data/1994_ciplak-silah-33-son-hakaret.webp" group-title="Filmler",Çıplak Silah 33⅓: Son Hakaret
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/35uwhcgk2zs8zzhf21m5/master.m3u8
+#EXTINF:-1 tvg-name="Çıplak Silah 2: Korkunun Kokusu" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_SILAH_2_KORKUNUN_KOKUSU" tvg-logo="https://dizifun4.com/images/data/1991_ciplak-silah-2-korkunun-kokusu.webp" group-title="Filmler",Çıplak Silah 2: Korkunun Kokusu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/lkvmiuyz6kkyeosdg2ml/master.m3u8
+#EXTINF:-1 tvg-name="Çıplak Silah: Polis Dosyalarından" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_SILAH_POLIS_DOSYALARINDAN" tvg-logo="https://dizifun4.com/images/data/1988_ciplak-silah-polis-dosyalarindan.webp" group-title="Filmler",Çıplak Silah: Polis Dosyalarından
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/y6mucdibu2j3xup7wsf9/master.m3u8
+#EXTINF:-1 tvg-name="Kadının Adı Yok" tvg-language="Turkish" tvg-country="TR" tvg-id="KADININ_ADI_YOK" tvg-logo="https://dizifun4.com/images/data/1988_kadinin-adi-yok.webp" group-title="Filmler",Kadının Adı Yok
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/8d6m7lvc94ml4udaktkk/master.m3u8
+#EXTINF:-1 tvg-name="Kiralık Katil: Tetikçi Tatilde" tvg-language="Turkish" tvg-country="TR" tvg-id="KIRALIK_KATIL_TETIKCI_TATILDE" tvg-logo="https://dizifun4.com/images/data/2022_kiralik-katil-tetikci-tatilde.webp" group-title="Filmler",Kiralık Katil: Tetikçi Tatilde
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ir4rvvy18cxcbnuk6g4n/master.m3u8
+#EXTINF:-1 tvg-name="Kiralık Katil" tvg-language="Turkish" tvg-country="TR" tvg-id="KIRALIK_KATIL" tvg-logo="https://dizifun4.com/images/data/2018_kiralik-katil.webp" group-title="Filmler",Kiralık Katil
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fal19vx88bd3kjq5kvhs/master.m3u8
 #EXTINF:-1 tvg-name="Eve Dönüş" tvg-language="Turkish" tvg-country="TR" tvg-id="EVE_DONUS" tvg-logo="https://dizifun4.com/images/data/2006_eve-donus.webp" group-title="Filmler",Eve Dönüş
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1thw5yfg1ocmluteferp/master.m3u8
 #EXTINF:-1 tvg-name="Zum: Süper Kahraman Akademisi" tvg-language="Turkish" tvg-country="TR" tvg-id="ZUM_SUPER_KAHRAMAN_AKADEMISI" tvg-logo="https://dizifun4.com/images/data/2006_zum-super-kahraman-akademisi.webp" group-title="Filmler",Zum: Süper Kahraman Akademisi
