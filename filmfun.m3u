@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Maria" tvg-language="Turkish" tvg-country="TR" tvg-id="MARIA" tvg-logo="https://dizifun4.com/images/data/2024_maria.webp" group-title="Filmler",Maria
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/kupapfg6sz7tyjqsmj81/master.m3u8
+#EXTINF:-1 tvg-name="Aşk Sadece Bir An" tvg-language="Turkish" tvg-country="TR" tvg-id="ASK_SADECE_BIR_AN" tvg-logo="https://dizifun4.com/images/data/2025_ask-sadece-bir-an.webp" group-title="Filmler",Aşk Sadece Bir An
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3q9aqo694i4xkbxi4zbb/master.m3u8
+#EXTINF:-1 tvg-name="Şok Dalgası 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SOK_DALGASI_2" tvg-logo="https://dizifun4.com/images/data/2020_sok-dalgasi-2.webp" group-title="Filmler",Şok Dalgası 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/nw7keq591hewhvhk9cdt/master.m3u8
+#EXTINF:-1 tvg-name="Şok Dalgası" tvg-language="Turkish" tvg-country="TR" tvg-id="SOK_DALGASI" tvg-logo="https://dizifun4.com/images/data/2017_sok-dalgasi.webp" group-title="Filmler",Şok Dalgası
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/rprfvqkclwfd19n5ht6j/master.m3u8
 #EXTINF:-1 tvg-name="Mutluluğun Ardından" tvg-language="Turkish" tvg-country="TR" tvg-id="MUTLULUGUN_ARDINDAN" tvg-logo="https://dizifun4.com/images/data/2016_mutlulugun-ardindan.webp" group-title="Filmler",Mutluluğun Ardından
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/m9zzk7fnvlgqn191l7n4/master.m3u8
 #EXTINF:-1 tvg-name="Tatlım" tvg-language="Turkish" tvg-country="TR" tvg-id="TATLIM" tvg-logo="https://dizifun4.com/images/data/1970_tatlim.webp" group-title="Filmler",Tatlım
