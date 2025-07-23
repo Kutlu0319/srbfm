@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Namuslu" tvg-language="Turkish" tvg-country="TR" tvg-id="NAMUSLU" tvg-logo="https://dizifun4.com/images/data/1984_namuslu.webp" group-title="Filmler",Namuslu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qlisukabrp3uetnskt7d/master.m3u8
+#EXTINF:-1 tvg-name="Koku: Bir Katilin Hikayesi" tvg-language="Turkish" tvg-country="TR" tvg-id="KOKU_BIR_KATILIN_HIKAYESI" tvg-logo="https://dizifun4.com/images/data/2006_koku-bir-katilin-hikayesi.webp" group-title="Filmler",Koku: Bir Katilin Hikayesi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qp8bk48ucu4jjydj91zx/master.m3u8
+#EXTINF:-1 tvg-name="Yaz Şarabı" tvg-language="Turkish" tvg-country="TR" tvg-id="YAZ_SARABI" tvg-logo="https://dizifun4.com/images/data/2013_yaz-sarabi.webp" group-title="Filmler",Yaz Şarabı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qw8ke997vgjmbocvdjek/master.m3u8
+#EXTINF:-1 tvg-name="Trump'ın Hikayesi" tvg-language="Turkish" tvg-country="TR" tvg-id="TRUMPIN_HIKAYESI" tvg-logo="https://dizifun4.com/images/data/2024_trumpin-hikayesi.webp" group-title="Filmler",Trump'ın Hikayesi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/uu7cawbbd8i1bj5sd8v2/master.m3u8
+#EXTINF:-1 tvg-name="Felaketler Dizisi: Özel Dedektif Anneler" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_OZEL_DEDEKTIF_ANNELER" tvg-logo="https://dizifun4.com/images/data/2025_felaketler-dizisi-ozel-dedektif-anneler.webp" group-title="Filmler",Felaketler Dizisi: Özel Dedektif Anneler
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wa6c1ewyalszipa7kji9/master.m3u8
 #EXTINF:-1 tvg-name="Maria" tvg-language="Turkish" tvg-country="TR" tvg-id="MARIA" tvg-logo="https://dizifun4.com/images/data/2024_maria.webp" group-title="Filmler",Maria
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/kupapfg6sz7tyjqsmj81/master.m3u8
 #EXTINF:-1 tvg-name="Aşk Sadece Bir An" tvg-language="Turkish" tvg-country="TR" tvg-id="ASK_SADECE_BIR_AN" tvg-logo="https://dizifun4.com/images/data/2025_ask-sadece-bir-an.webp" group-title="Filmler",Aşk Sadece Bir An
