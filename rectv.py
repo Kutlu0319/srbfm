@@ -1,5 +1,7 @@
 import requests
 from cloudscraper import CloudScraper
+import re
+import os
 
 class RecTVUrlFetcher:
     def __init__(self):
@@ -54,10 +56,7 @@ def get_all_channels(base_domain):
 
 def extract_m3u8_links(channels):
     playlist_lines = ['#EXTM3U']
-
-
-    priority_order = ["Spor", "Haber", "Ulusal", "Sinema","Belgesel","Diğer", "Müzik"]
-    
+    priority_order = ["Spor", "Haber", "Ulusal", "Sinema ", "Çocuk", "Belgesel", "Yaşam & Eğlence", "Müzik"]
     grouped_channels = {}
 
     for channel in channels:
@@ -66,8 +65,8 @@ def extract_m3u8_links(channels):
         channel_id = str(channel.get("id", ""))
         categories = channel.get("categories", [])
         group_title = categories[0]["title"] if categories else "Diğer"
-
         sources = channel.get("sources", [])
+
         for source in sources:
             url = source.get("url")
             if url and url.endswith(".m3u8"):
@@ -79,27 +78,81 @@ def extract_m3u8_links(channels):
                     '#EXTVLCOPT:http-referrer=https://twitter.com',
                     url
                 )
-
-                
                 grouped_channels.setdefault(group_title, []).append(entry)
 
-    
     for group in priority_order + sorted(set(grouped_channels.keys()) - set(priority_order)):
         entries = grouped_channels.get(group)
         if entries:
-            
             sorted_entries = sorted(entries, key=lambda e: e[0].split(",")[-1].lower())
             for entry in sorted_entries:
                 playlist_lines.extend(entry)
 
-    return '\n'.join(playlist_lines)
+    return playlist_lines
 
+def save_to_file(new_lines, filename="1.m3u"):
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
+            old_content = f.read().splitlines()
+        old_channels = extract_entries(old_content)
+        new_channels = extract_entries(new_lines)
 
+        merged_channels = merge_channels(old_channels, new_channels)
+        content = "#EXTM3U\n" + '\n'.join([item for entry in merged_channels for item in entry])
+    else:
+        content = '\n'.join(new_lines)
 
-def save_to_file(content, filename="rectv.m3u"):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f" M3U dosyası kaydedildi: {filename}")
+
+    print(f"💾 M3U dosyası güncellendi: {filename}")
+
+# ------------------------ 🔽 Yardımcı Fonksiyonlar 🔽 ------------------------
+
+def extract_entries(lines):
+    entries = []
+    temp = []
+    for line in lines:
+        if line.startswith("#EXTINF:"):
+            if temp:
+                entries.append(tuple(temp))
+                temp = []
+            temp = [line]
+        elif temp:
+            temp.append(line)
+    if temp:
+        entries.append(tuple(temp))
+    return entries
+
+def get_id_from_info(info_line):
+    m = re.search(r'tvg-id="([^"]+)"', info_line)
+    return m.group(1) if m else None
+
+def is_rectv_id(tvg_id):
+    return tvg_id and re.fullmatch(r"\d+", tvg_id)
+
+# 🔄 Sadece linkleri güncelleyen versiyon
+def merge_channels(old_channels, new_channels):
+    new_dict = {
+        get_id_from_info(ch[0]): ch
+        for ch in new_channels
+        if is_rectv_id(get_id_from_info(ch[0]))
+    }
+
+    final_channels = []
+    for old_ch in old_channels:
+        ch_id = get_id_from_info(old_ch[0])
+        if is_rectv_id(ch_id) and ch_id in new_dict:
+            # EXTINF satırı korunur, link ve opsiyonel HTTP ayarları güncellenir
+            old_extinf = old_ch[0]
+            new_lines = list(new_dict[ch_id])
+            final_entry = [old_extinf] + new_lines[1:]
+            final_channels.append(tuple(final_entry))
+        else:
+            final_channels.append(old_ch)
+
+    return final_channels
+
+# ------------------------ 🔚 ------------------------
 
 if __name__ == "__main__":
     fetcher = RecTVUrlFetcher()
@@ -107,13 +160,8 @@ if __name__ == "__main__":
 
     if domain:
         kanallar = get_all_channels(domain)
-        print(f" Toplam {len(kanallar)} kanal bulundu.")
-        m3u_content = extract_m3u8_links(kanallar)
-        save_to_file(m3u_content)
+        print(f"📺 Toplam {len(kanallar)} kanal bulundu.")
+        m3u_lines = extract_m3u8_links(kanallar)
+        save_to_file(m3u_lines)
     else:
-        print("Geçerli domain alınamadı.")
-
-
-
-    
-  
+        print("🚫 Geçerli domain alınamadı.")
