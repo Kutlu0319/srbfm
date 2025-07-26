@@ -2,7 +2,7 @@ import requests
 
 # Birleştirmek istediğin M3U dosyalarının URL'leri
 m3u_urls = [
-    "https://raw.githubusercontent.com/koprulu5564/kablo-tv-mod/refs/heads/main/playlist.m3u",
+    "https://raw.githubusercontent.com/koprulu5564/kablo-tv-api/refs/heads/main/kablo_tv.m3u",
     "https://raw.githubusercontent.com/koprulu5564/rectv/refs/heads/main/rectv_full.m3u",
     "https://raw.githubusercontent.com/koprulu5564/trgoals/refs/heads/main/trgoals.m3u"
 ]
